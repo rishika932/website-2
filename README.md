@@ -1,1 +1,2 @@
-# website-2
+Live preview:-https://rishika-e-commerce.netlify.app/
+
